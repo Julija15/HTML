@@ -1,0 +1,32 @@
+.my-button{
+    width: 150px;
+    height: 50px;
+    background-color: aliceblue;
+    border-radius: 15%;
+    border-width: 2px;
+    margin: 20px;
+    font-size: 30px;
+
+}
+.my-img{
+    margin: 20px;
+    height:200px;
+    width: 200px;
+    border-width: 18px;
+    paddig: 10px;
+    border-radius: 50%;
+}
+.div-green{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    float: left;
+    width: 48%;
+}
+.div-red{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    float: right;
+    width: 48%;
+}
